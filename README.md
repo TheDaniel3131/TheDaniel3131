@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="/assets/mochi-sleeping.gif" align="right" height="100px"/>
 
 ## I am a software engineer student that likes to code and play tons of games! 
-✨ My full name is Daniel Poh Ting Fong. As for now, I am currently studying at APU (Asia Pacific University) in Malaysia. My favourite pastime hobbies are playing video games, watching online videos, and playing chess! I am just a guy who wants to learn anything as much as possible because I am a learner myself.
+✨ My name is Daniel Poh. As for now, I am currently studying at APU (Asia Pacific University) in Malaysia. My favourite pastime hobbies are playing video games, watching online videos, and playing chess! I am just a guy who wants to learn anything as much as possible because I am a learner myself.
 
 📫 Feel free to contact me:
 - https://daniel3131.carrd.co/
