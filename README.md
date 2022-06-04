@@ -38,7 +38,7 @@
 <a href="https://www.adobe.com/my_en/products/premiere.html"><img src="/assets/premierepro_logo.svg" alt="Premiere Pro" height="40"/></a>
 <a href="https://www.adobe.com/my_en/products/photoshop.html"><img src="/assets/photoshop_logo.svg" alt="Photoshop" height="40"/></a>
 <a href="https://lightroom.adobe.com/"><img src="/assets/lightroom_logo.svg" alt="Lightroom" height="40"/></a>
-<a href="https://codeigniter.com/"><img src="/assets/codeignitter_logo.svg" alt="Codeigniter" height="40"/></a>
+<a href="https://codeigniter.com/"><img src="/assets/codeigniter_logo.svg" alt="Codeigniter" height="40"/></a>
 <a href="https://www.figma.com/"><img src="/assets/figma_logo.svg" alt="Figma" height="40"/></a>
 </p>
 
