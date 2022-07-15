@@ -42,4 +42,15 @@
 <a href="https://www.figma.com/"><img src="/assets/figma_logo.svg" alt="Figma" height="40"/></a>
 </p>
 
+ <!-- Github Stats -->
+<a href="https://github.com/TheDaniel3131/github-readme-stats">
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=blue-green&showicons=true&hide_border=true" width=50%/>
+</a>
+
+<!-- Most Used Languages -->
+<a href="https://github.com/TheDaniel3131/github-readme-stats">
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=blue-green&layout=compact&hide_border=true"/>
+</a>
+
+
 
