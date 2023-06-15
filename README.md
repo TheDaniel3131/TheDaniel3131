@@ -1,6 +1,3 @@
-## <p align="center"> I am a software engineering student who likes to code and play tons of games! ⚡ </p>
-
-
 #### 📫 Feel free to contact me:
 - http://daniel3131.com 💬
 
