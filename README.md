@@ -20,7 +20,8 @@
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&theme=blue-green&layout=compact&hide_border=true"/>
 </a>
 
-<be>
+<br>
+
 [![Daniel3131's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel3131)](https://github.com/anuraghazra/github-readme-stats)
 
 
