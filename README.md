@@ -1,5 +1,5 @@
 #### 📫 Feel free to contact me:
-- http://daniel3131.com 💬
+- https://danielpohtingfong.netlify.app 💬
 
 
 ### Connect with me 🔗:
