@@ -8,7 +8,7 @@
 <span class="sm"> Check out: <a href="https://linktr.ee/Daniel3131" target="blank">Social Medias</a></span>
 </p><br>
 
-### My Github Stats
+### My Github Stats 
 <!-- Github Stats -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
   <img align=left src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&showicons=true&hide_border=true" width=50%/>
