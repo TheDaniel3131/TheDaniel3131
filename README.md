@@ -8,7 +8,7 @@
 </p><br>
 
 ### My Codewars Stats 📈:  
-![Codewars](https://github.r2v.ch/codewars?user=z3phr0us&name=true&top_languages=true&stroke=%23003b6f&theme=nightowl)
+![Codewars](https://github.r2v.ch/codewars?user=z3phr0us&top_languages=true&stroke=%23003b6f&theme=nightowl)
 
 
 <br>
