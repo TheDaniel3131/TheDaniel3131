@@ -28,10 +28,10 @@
 ### My Github Stats 📈:
 <!-- Github Stats -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&showicons=true&hide_border=true" width=50%/>
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&showicons=true&hide_border=true" width=100%/>
 </a>
 
-<br>
+<br><br>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
