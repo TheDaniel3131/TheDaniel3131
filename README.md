@@ -28,14 +28,14 @@
 ### My Github Stats 📈:
 <!-- Github Stats -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&showicons=true&hide_border=true" width=50%/>
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&showicons=true&hide_border=true" width=50%/>
 </a>
 
 <br>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&theme=blue-green&layout=compact&hide_border=true"/>
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&theme=blue-green&layout=compact&hide_border=true"/>
 </a>
 
 
