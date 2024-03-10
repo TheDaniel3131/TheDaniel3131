@@ -35,7 +35,7 @@
 
 <!-- Most Used Languages -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&theme=blue-green&layout=compact&hide_border=true"/>
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&theme=blue-green&layout=compact&hide_border=true" width=100%/>
 </a>
 
 
