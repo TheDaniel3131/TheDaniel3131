@@ -22,7 +22,7 @@
 <span class="sm"> Check out: <a href="https://linktr.ee/Daniel3131" target="blank">Social Medias</a></span>
 </p><br>
 
-### Check out myst3r10us's CTF website 💻
+### Check out myst3r10us's website 💻
 - https://myst3r10us.vercel.app 🌐
 <br>
 
