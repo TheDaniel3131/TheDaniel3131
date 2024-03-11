@@ -6,7 +6,7 @@
 
 <br>
 
-## I am Daniel. Welcome To My Github Space! 🚀
+## Hi. I am Daniel. Welcome To My Github Space! 🚀
 
 
 ### About Me •ᴗ•
