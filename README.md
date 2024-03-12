@@ -1,4 +1,4 @@
-<h1 align="center"> >cat "./hello_everyone.md"👋 </h1>
+<h1 align="center"> > cat "./hello_everyone.md"👋 </h1>
 
 <p align="center">
   <img src="https://i.imgur.com/LTVh5Fd.gif"/>
@@ -29,7 +29,6 @@
 
 ### My Codewars Stats 📈:  
 ![Codewars](https://github.r2v.ch/codewars?user=z3phr0us&top_languages=true&stroke=%23003b6f&theme=nightowl)
-
 
 <br>
 
