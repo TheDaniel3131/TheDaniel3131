@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/LTVh5Fd.gif"/>
+  <p align="center">Enty <3</p>
 </p>
 
 <br>
