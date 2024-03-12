@@ -11,7 +11,7 @@
 
 
 ### About Me •ᴗ•
-(ㅅ´ ˘ `) I am currently a university student studying Software Engineering. I am an aspiring full-stack web developer as I am passionate about building websites & web development aspects. On the other side, I am still a beginner in CTF although I have improved significantly since September 2023 when I started CTF. As for now, I am apart of my CTF team, <a href="https://github.com/myst3r10us">@myst3r10us</a>. I am also the proud founder & co-owner as well. 🙎🏻‍♂️ 
+(ㅅ´ ˘ `) I am currently a university student studying Software Engineering. I am an aspiring full-stack web developer too as I am passionate about building websites & web development aspects. On the other side, I am still a beginner in CTF although I have improved significantly since September 2023 when I started CTF. As for now, I am apart of my CTF team, <a href="https://github.com/myst3r10us">@myst3r10us</a>. I am also the proud founder & co-owner as well. 🙎🏻‍♂️ 
 <br><br>
 
 ### 📫 My personal portfolio website. Feel free to visit:
