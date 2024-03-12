@@ -28,8 +28,8 @@
 <br>
 
 ### My Codewars Stats 📈:  
-![Codewars_Badge](https://www.codewars.com/users/z3phr0us/badges/large)
-<br><br>
+![Codewars](https://www.codewars.com/users/z3phr0us/badges/large)
+<br/> <br>
 ![Codewars](https://github.r2v.ch/codewars?user=z3phr0us&top_languages=true&stroke=%23003b6f&theme=nightowl)
 
 
