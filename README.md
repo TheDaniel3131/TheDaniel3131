@@ -36,7 +36,8 @@
 <!-- Github Stats -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
   <img align=center src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&show_icons=true&hide_border=true&locale=en" alt="github stats"><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedaniel3131&" alt="thedaniel3131" /></p>
+  <!--  https://github-readme-streak-stats.herokuapp.com/demo/ -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedaniel3131&theme=tokyonight-duo&show_icons=true" alt="thedaniel3131" /></p>
 </a>
 
 <br /> <br>
@@ -126,7 +127,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" height="30" alt="krakenjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
