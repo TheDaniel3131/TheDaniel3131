@@ -184,6 +184,9 @@
 <hr>
 <br>
 
+[![Gmail Badge](https://img.shields.io/badge/zephrous-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielpohtingfong@gmail.com)](mailto:danielpohtingfong@gmail.com)
+
+
 <h4 align=right>Hello, st**k*rs 👀👀👀</h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thedaniel3131&label=Profile%20views&color=0e75b6&style=flat" alt="thedaniel3131" /> </p>
 
