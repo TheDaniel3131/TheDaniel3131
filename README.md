@@ -7,6 +7,11 @@
 
 <br>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
+  <p align="center">Me When I Acting Like A Good Coder</p>
+</p>
+
 ## Hi. I am Daniel. Welcome To My Github Space! 🚀
 
 
