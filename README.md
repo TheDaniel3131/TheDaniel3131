@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
-  <p align="center">That Is Me When I Code</p>
+  <p align="center">:)</p>
 </p>
 
 <br>
