@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> > cat "./hello_everyone.md"👋 </h1> -->
-<h1 align="center"> > cat "./hello_everyone.md" <img src='https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif' width="30"/> </h1>
+<h1 align="center"> > cat "./hello_everyone.md" <img src='https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif' width="30" alt="Welcome!"/> </h1>
 
 <p align="center">
   <img src="https://i.imgur.com/LTVh5Fd.gif"/>
