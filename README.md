@@ -177,7 +177,7 @@
 <hr>
 <br>
 
-<h4 align=right>👀👀👀</h4>
+<h4 align=right>Hello, st**k*rs 👀👀👀</h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thedaniel3131&label=Profile%20views&color=0e75b6&style=flat" alt="thedaniel3131" /> </p>
 
 
