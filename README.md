@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
-  <p align="center">:)</p>
+  <p align="center"> <!-- Can you find the easiest CTF flag ever? --> </p>
 </p>
 
 <br>
@@ -182,7 +182,7 @@
 </div>
 
 <br>
-<hr>
+<hr> <!-- flag{G1thub_1s_4w3s0m3} -->
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/zephrous-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielpohtingfong@gmail.com)](mailto:danielpohtingfong@gmail.com)
@@ -190,6 +190,8 @@
 
 <h4 align=right>Hello, st**k*rs 👀👀👀</h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thedaniel3131&label=Profile%20views&color=0e75b6&style=flat" alt="thedaniel3131" /> </p>
+
+
 
 
 
