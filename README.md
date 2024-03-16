@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
-  <p align="center"> <!-- Can you find the easiest CTF flag ever? --> </p>
+  <p align="center"> </p>
 </p>
 
 <br>
