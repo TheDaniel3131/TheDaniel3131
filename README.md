@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
-  <p align="center"> </p>
+  <p align="center"> I Like Programming. </p>
 </p>
 
 <br>
