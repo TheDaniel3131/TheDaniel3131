@@ -1,4 +1,4 @@
-<!-- <h1 align="center"> > cat "./hello_everyone.md"👋 </h1> -->
+#<!-- <h1 align="center"> > cat "./hello_everyone.md"👋 </h1> -->
 <h1 align="center"> > cat "./hello_everyone.md" <img src='https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif' width="30" alt="Welcome!"/> </h1>
 
 <p align="center">
@@ -22,16 +22,16 @@
 (ㅅ´ ˘ `) I am currently a university student studying Software Engineering. I am an aspiring full-stack web developer too as I am passionate about building websites & web development aspects. On the other side, I am still a beginner in CTF although I have improved significantly since September 2023 when I started CTF. As for now, I am apart of my CTF team, <a href="https://github.com/myst3r10us">@myst3r10us</a>. I am also the proud founder & owner as well. 🙎🏻‍♂️ 
 <br><br>
 
-### 📫 My personal portfolio website. Feel free to visit:
+### 📫 My Personal Portfolio Website. Feel free to visit:
 - https://danielpohtingfong.netlify.app 💬
 <br>
 
-### Connect with me 🔗:
+### Connect with Me 🔗:
 <p align="left">
 <span class="sm"> Check out: <a href="https://linktr.ee/Daniel3131" target="blank">Social Medias</a></span>
 </p><br>
 
-### Check out myst3r10us's website 💻
+### Check Out myst3r10us's website 💻
 - https://myst3r10us.vercel.app 🌐
 <br>
 
