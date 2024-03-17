@@ -9,8 +9,8 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
-  <p align="center"> Coding Life. </p>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1999&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Coding+Life" alt="Typing SVG" /></a>
 </p>
 
 <br>
