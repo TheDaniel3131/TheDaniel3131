@@ -49,11 +49,11 @@
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
   <img align=center src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&show_icons=true&hide_border=true&locale=en" alt="github stats"><br><br>
   <!--  https://github-readme-streak-stats.herokuapp.com/demo/ -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedaniel3131&theme=tokyonight-duo&show_icons=true" alt="thedaniel3131" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedaniel3131&theme=tokyonight-duo&show_icons=true&hide_border=true&card_width=530" alt="thedaniel3131" /></p>
   <br>
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheDaniel3131&theme=darkhub&column=5&margin-h-30)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheDaniel3131&theme=darkhub&column=5&margin-h-30&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br /> <br>
 
