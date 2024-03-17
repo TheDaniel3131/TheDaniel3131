@@ -53,7 +53,7 @@
   <br>
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheDaniel3131&theme=darkhub&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheDaniel3131&theme=darkhub&column=5&margin-h-30)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br /> <br>
 
