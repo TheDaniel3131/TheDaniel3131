@@ -186,7 +186,7 @@
 </div>
 
 <br>
-<hr> <!-- flag{G1thub_1$_4w3s0m3!} -->
+<hr> <!-- flag{G1THUB_1$_4w3$0m3!} -->
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/zephrous-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielpohtingfong@gmail.com)](mailto:danielpohtingfong@gmail.com)
