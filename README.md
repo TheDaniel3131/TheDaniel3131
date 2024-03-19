@@ -8,19 +8,16 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1999&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Coding+Life" alt="Typing SVG" /></a>
-</p>
-
-
-<div align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<br />
 
 <!-- Old method -->
 <!-- ![snake gif](https://github.com/TheDaniel3131/TheDaniel3131/blob/output/github-contribution-grid-snake.gif) -->
