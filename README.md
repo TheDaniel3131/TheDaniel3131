@@ -198,7 +198,7 @@
 <br>
 
 ### TryHackMe (Grind Soon!) 📈:  
-![tryhackme stats](https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/master/assets/)[tryhackme]
+![TryHackMe Stats](https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/master/assets/tryhackme_rank.png)[tryhackme]
 <br/> <br>
 
 <hr> <!-- flag{G1tHuB_pR0f1L3_R34DM3_1$_4w3$0m3!} -->
