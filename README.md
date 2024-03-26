@@ -196,8 +196,16 @@
 </div>
 
 <br>
+
+<!--
+### TryHackMe (Grind Soon!) 📈:  
+![tryhackme stats](https://raw.githubusercontent.com/zephrous/zephrous/master/assets/thm_propic.png)
+<br/> <br>
+-->
+
 <hr> <!-- flag{G1tHuB_pR0f1L3_R34DM3_1$_4w3$0m3!} -->
 <br>
+
 
 [![Gmail Badge](https://img.shields.io/badge/zephrous-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielpohtingfong@gmail.com)](mailto:danielpohtingfong@gmail.com)
 
