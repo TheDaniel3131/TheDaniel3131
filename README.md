@@ -198,15 +198,16 @@
 
 <br> <br>
 
-### TryHackMe (Grind Soon!) 📈:  
 <!-- Script Won't work In Github README lol. I just realized that.
 
 <script src="https://tryhackme.com/badge/2543599"></script>
 
--->
+
+### TryHackMe (Grind Soon!) 📈:  
 
 ![tryhackme stats](https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/master/assets/thm_propic.png)
 <br/> <br>
+-->
 
 <hr> <!-- flag{G1tHuB_pR0f1L3_R34DM3_1$_4w3$0m3!} -->
 <br>
