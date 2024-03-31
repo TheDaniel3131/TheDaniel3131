@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/LTVh5Fd.gif"/>
-  <p align="center"><a href="https://azurlane.koumakan.jp/wiki/Enterprise">ENTY <3</a></p>
+  <p align="center"><a href="https://azurlane.koumakan.jp/wiki/Enterprise">View Wiki</a></p>
 </p>
 
 <br>
