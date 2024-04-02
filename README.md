@@ -201,7 +201,6 @@
 
 <script src="https://tryhackme.com/badge/2543599"></script>
 
-
 ### TryHackMe (Grind Soon!) 📈:  
 
 ![tryhackme stats](https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/master/assets/thm_propic.png)
