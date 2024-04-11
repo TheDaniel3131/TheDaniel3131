@@ -37,6 +37,10 @@
 - https://danielpohtingfong.netlify.app 💬
 <br>
 
+### Check Out My Blogs 💻
+- https://z3phr0us.blogspot.com 🌐
+<br>
+
 ### Connect with Me 🔗:
 <p align="left">
 <span class="sm"> Check out: <a href="https://linktr.ee/Daniel3131" target="blank">Social Medias</a></span>
