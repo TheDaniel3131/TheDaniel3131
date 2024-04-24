@@ -37,8 +37,9 @@
 - https://danielpohtingfong.netlify.app 💬
 <br>
 
-### Check Out My Blogs 💻
+### Check Out My Personal Blogs 💻
 - https://z3phr0us.blogspot.com 🌐
+- https://zephrous2k.github.io (Coming Soon)
 <br>
 
 ### Connect with Me 🔗:
