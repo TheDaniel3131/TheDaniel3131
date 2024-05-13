@@ -76,7 +76,12 @@
 <!-- Most Used Languages -->
 <a href="https://github.com/TheDaniel3131/github-readme-stats">
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&theme=blue-green&layout=compact&hide_border=true">
+  <br />
 </a>
+
+<!--
+![Wakatime Weekly Counters](https://github-readme-stats.vercel.app/api/wakatime?username=zephrous&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+-->
 
 <br /> <br>
 
