@@ -85,7 +85,7 @@
 
 <br /> <br>
 
-<h3 align="left">Programming Languages, Tools & Applications:</h3>
+<h3 align="left">Programming Languages, Tools & Applications 🛠️:</h3>
 <!-- Programming Languages, Tools & Applications -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -206,6 +206,14 @@
 </div>
 
 <br> <br>
+
+### My Achievements 🏆: 
+1. Credly: https://www.credly.com/users/dptf
+2. Badgr: https://api.badgr.io/public/collections/893ec64ccf82485bb85176862222c0e2
+3. Google: https://g.dev/dptf
+
+& more to reveal! 
+<br />
 
 <!-- Script Won't work In Github README lol. I just realized that.
 
