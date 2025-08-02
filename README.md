@@ -33,7 +33,7 @@
 (ㅅ´ ˘ `) I am currently a university student studying Software Engineering. I am also an aspiring full-stack web developer and I am passionate about building websites & web development aspects. Besides that, I am a cybersecurity enthusiast. I have been participating numerous Capture-The-Flag (CTF) competitions since September 2023 when I started CTF. As for now, I am part of my CTF team, <a href="https://github.com/myst3r10us">@myst3r10us</a>. Current founder and owner as well. 🙎🏻‍♂️ 
 <br><br>
 
-### 📫 My Personal Portfolio Website. Feel free to visit:
+### 📫 Check Out My Personal Portfolio Website
 - https://danielpohtingfong.netlify.app 💬
 <br>
 
@@ -49,14 +49,6 @@
 
 ### Check Out myst3r10us's website 💻
 - https://myst3r10us.vercel.app 🌐
-<br>
-
-### My Codewars Stats 📈:  
-![Codewars](https://www.codewars.com/users/z3phr0us/badges/large)
-<br/> <br>
-
-![Codewars](https://github.r2v.ch/codewars?user=z3phr0us&top_languages=true&stroke=%23003b6f&theme=nightowl)
-
 <br>
 
 ### My Github Stats 📈:
