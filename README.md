@@ -1,4 +1,3 @@
-<!-- <h1 align="center"> > cat "./hello_everyone.md"👋 </h1> -->
 <h1 align="center"> > cat "./hello_everyone.md" <img src='https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif' width="30" alt="Welcome to my Github Profile!"/> </h1>
 
 <p align="center">
@@ -11,16 +10,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1999&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Coding+Life" alt="Typing SVG" /></a>
-  <!-- <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/output/github-contribution-grid-snake.svg">
-      <img alt="Snake Eats My Contributions!" src="https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/output/github-contribution-grid-snake.svg">
-  </picture> -->
 </div>
 <br />
-
-<!-- Old method -->
-<!-- ![snake gif](https://github.com/TheDaniel3131/TheDaniel3131/blob/output/github-contribution-grid-snake.gif) -->
 
 ---
 
@@ -71,15 +62,7 @@
   <br />
 </a>
 
-<!--
-![Wakatime Weekly Counters](https://github-readme-stats.vercel.app/api/wakatime?username=zephrous&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
--->
-
 <br /> <br>
-
-<h3 align="left">Programming Languages, Tools & Applications 🛠️:</h3>
-<!-- Programming Languages, Tools & Applications -->
-W.I.P.
 
 <br> <br>
 
@@ -90,16 +73,6 @@ W.I.P.
 
 & more to reveal! 
 <br />
-
-<!-- Script Won't work In Github README lol. I just realized that.
-
-<script src="https://tryhackme.com/badge/2543599"></script>
-
-### TryHackMe (Grind Soon!) 📈:  
-
-![tryhackme stats](https://raw.githubusercontent.com/TheDaniel3131/TheDaniel3131/master/assets/thm_propic.png)
-<br/> <br>
--->
 
 <hr> <!-- flag{G1tHuB_pR0f1L3_R34DM3_1$_4w3$0m3!} -->
 <br>
