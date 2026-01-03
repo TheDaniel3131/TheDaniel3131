@@ -19,7 +19,6 @@
 
 # Hi. I am Daniel. Welcome To My Github Space! 🚀
 
-
 ## About Me •ᴗ•
 (ㅅ´ ˘ `) I am currently a university student studying Software Engineering. I am also an aspiring full-stack web developer and I am passionate about building websites & web development aspects. Besides that, I am a cybersecurity enthusiast. I have been participating numerous Capture-The-Flag (CTF) competitions since September 2023 when I started CTF. As for now, I am part of my CTF team, <a href="https://github.com/myst3r10us">@myst3r10us</a>. Current founder and owner as well. 🙎🏻‍♂️ 
 <br><br>
@@ -42,29 +41,7 @@
 - https://myst3r10us.vercel.app 🌐
 <br>
 
-### My Github Stats 📈:
-<!-- Github Stats -->
-<a href="https://github.com/TheDaniel3131/github-readme-stats">
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&theme=holi&show_icons=true&hide_border=true&locale=en" alt="github stats"><br><br>
-  <!--  https://github-readme-streak-stats.herokuapp.com/demo/ -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedaniel3131&theme=tokyonight-duo&show_icons=true&hide_border=true&card_width=530" alt="thedaniel3131" /></p>
-  <br>
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheDaniel3131&theme=darkhub&column=5&margin-h-30&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br /> <br>
-
-### My Top Used Languages ⌨️:
-<!-- Most Used Languages -->
-<a href="https://github.com/TheDaniel3131/github-readme-stats">
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&theme=blue-green&layout=compact&hide_border=true">
-  <br />
-</a>
-
-<br /> <br>
-
-<br> <br>
 
 ### My Achievements 🏆: 
 1. Credly: https://www.credly.com/users/dptf
