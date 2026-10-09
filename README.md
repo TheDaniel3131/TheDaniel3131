@@ -19,7 +19,7 @@
 │  Role      : Software Engineer · Full Stack Developer            │
 │  Location  : Malaysia 🇲🇾                                         │
 │  Interests : Full Stack Dev · DevOps · Cloud · AI                │
-│              3D · Blockchain · Web3                              │
+│              3D · Blockchain · Web3 · UI/UX                      │
 │  Status    : Busy with Work                                      │
 └──────────────────────────────────────────────────────────────────┘
 ```
