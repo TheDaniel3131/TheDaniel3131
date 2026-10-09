@@ -17,7 +17,7 @@
 ┌────────────────────────────────────────────────────────────────────────┐
 │  Name      : Daniel Poh                                                │
 │  Status    : Busy with works                                           │
-│  Role      : Software Engineer · Full Stack Developer· DevOps Engineer │
+│  Role      : Software Engineer · Full Stack Developer · DevOps Engineer │
 │  Location  : Malaysia 🇲🇾                                               │
 │  Interests : Full Stack Dev · DevOps · Cloud · AI                      │
 │              3D · Blockchain · Web3 · UI/UX                            │
