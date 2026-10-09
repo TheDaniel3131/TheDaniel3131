@@ -14,14 +14,14 @@
 ## `> whoami`
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│  Name      : Daniel Poh                                          │
-│  Role      : Software Engineer · Full Stack Developer            │
-│  Location  : Malaysia 🇲🇾                                         │
-│  Interests : Full Stack Dev · DevOps · Cloud · AI                │
-│              3D · Blockchain · Web3 · UI/UX                      │
-│  Status    : Busy with Work                                      │
-└──────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│  Name      : Daniel Poh                                                │
+│  Status    : Busy with works                                           │
+│  Role      : Software Engineer · Full Stack Developer· DevOps Engineer │
+│  Location  : Malaysia 🇲🇾                                               │
+│  Interests : Full Stack Dev · DevOps · Cloud · AI                      │
+│              3D · Blockchain · Web3 · UI/UX                            │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## 🛠 Tech Stack
