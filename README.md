@@ -91,6 +91,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
+
 ## 📊 GitHub Stats
  
 <p align="center">
@@ -105,6 +106,7 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=TheDaniel3131&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
+
 
 ## 🏆 Certifications
  
