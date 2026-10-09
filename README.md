@@ -1,7 +1,7 @@
 <img src="https://profilekit.vercel.app/api/matrix?color=70A5FD&density=0.6&speed=0.5&width=900&height=220" width="100%"/>
 
 <div align="center">
-  <h1>Hey, I'm Daniel 👋</h1>
+  <h1>Hey, I'm Daniel👋 | Welcome to My GitHub Profile</h1>
   <p><b>Software Engineer · Full Stack Developer · DevOps Engineer</b></p>
 
   <p>
