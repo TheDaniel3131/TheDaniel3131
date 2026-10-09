@@ -92,9 +92,9 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ## 📊 GitHub Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=a0aec0" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=a0aec0" height="170" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=70A5FD&text_color=a0aec0" height="170" alt="Top Languages"/>
 </p>
 <p align="center">
@@ -103,20 +103,15 @@
 
 ### 🏅 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheDaniel3131&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
-### 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDaniel3131&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70A5FD&line=70A5FD&point=ffffff" alt="Activity Graph"/>
+  <img src="https://github-trophies.vercel.app/?username=TheDaniel3131&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ## 🏆 Certifications
-
+ 
 <p align="left">
   <a href="https://www.credly.com/users/dptf"><img src="https://img.shields.io/badge/Credly-View_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
   <a href="https://g.dev/dptf"><img src="https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
   <a href="https://api.badgr.io/public/collections/893ec64ccf82485bb85176862222c0e2"><img src="https://img.shields.io/badge/Badgr-Collection-006EFF?style=for-the-badge&logoColor=white"/></a>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+ 
